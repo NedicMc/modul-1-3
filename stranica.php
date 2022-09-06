@@ -1,1 +1,0 @@
-<h2>Zdravo sa PHP stranice</h2>
